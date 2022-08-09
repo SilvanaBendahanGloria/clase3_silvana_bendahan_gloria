@@ -32,3 +32,16 @@ while (numero != 0) {
     numero = prompt ("Escribí otro número");
 
 }*/
+
+//Opción con Do... While
+let numero = prompt ("Escriba un número");
+
+do {
+    alert ("¡Ganaste un premio!");
+    numero = prompt ("Escribí otro número");
+}
+while (numero != 0)
+        
+  
+
+
