@@ -1,6 +1,6 @@
 //Sorteo de la lotería. 3 intentos. Números ganadores: 15 y 80
 
-let numero = "";
+/*let numero = "";
 
 for (i=0; i<3; i++) {
     numero = parseInt (prompt ("Ingresá un número"));
@@ -17,5 +17,18 @@ for (i=0; i<3; i++) {
     else {
         alert ("ups, seguí participando");
     }
-}
+}*/
 
+
+
+
+//Sorteo con ganador (casi) asegurado
+
+/*let numero = prompt ("Escriba un número");
+
+while (numero != 0) {
+        
+    alert ("¡Ganaste un premio!");
+    numero = prompt ("Escribí otro número");
+
+}*/
